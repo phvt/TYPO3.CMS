@@ -133,7 +133,7 @@ are used for file (and image) uploads.
                            label: '1:/user_upload/'
                  properties:
                    saveToFileMount: '1:/user_upload/'
-               ImageUpload
+               ImageUpload:
                  properties:
                    saveToFileMount: '1:/user_upload/'
                   editors:
